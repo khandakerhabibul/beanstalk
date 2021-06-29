@@ -1,1 +1,1 @@
-Please install node_modules first then run the react app.
+I am using node version v14.15.1 . Clone the repository. Then install node_modules using "npm install". Then run the react app using "npm start".
